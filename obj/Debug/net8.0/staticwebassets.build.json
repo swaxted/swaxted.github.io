@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "NANwpK1v0fIGdBzFtb6+5utEScyrXJ1HqCQfUs1ocoY=",
+  "Source": "SwaxtedBio",
+  "BasePath": "_content/SwaxtedBio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lopas\\Desktop\\SwaxtedBio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SwaxtedBio.styles.css",
+      "SourceId": "SwaxtedBio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Lopas\\Desktop\\SwaxtedBio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SwaxtedBio",
+      "RelativePath": "SwaxtedBio.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Lopas\\Desktop\\SwaxtedBio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SwaxtedBio.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Lopas\\Desktop\\SwaxtedBio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SwaxtedBio.bundle.scp.css",
+      "SourceId": "SwaxtedBio",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Lopas\\Desktop\\SwaxtedBio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SwaxtedBio",
+      "RelativePath": "SwaxtedBio.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Lopas\\Desktop\\SwaxtedBio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SwaxtedBio.bundle.scp.css"
+    }
+  ]
+}

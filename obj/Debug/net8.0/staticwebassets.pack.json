@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lopas\\Desktop\\SwaxtedBio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SwaxtedBio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SwaxtedBio.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SwaxtedBio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SwaxtedBio.props",
+      "PackagePath": "build\\SwaxtedBio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SwaxtedBio.props",
+      "PackagePath": "buildMultiTargeting\\SwaxtedBio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SwaxtedBio.props",
+      "PackagePath": "buildTransitive\\SwaxtedBio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
